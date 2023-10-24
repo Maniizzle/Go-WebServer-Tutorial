@@ -1,4 +1,4 @@
-module GO-WebServer-Tutorial
+module github.com/maniizzle/gowebservertutorial
 
 go 1.19
 
