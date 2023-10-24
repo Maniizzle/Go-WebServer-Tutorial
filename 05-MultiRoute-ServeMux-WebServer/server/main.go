@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GO-WebServer-Tutorial/05-MultiRoute-ServeMux-WebServer/countryCapitals"
+	"github.com/maniizzle/gowebservertutorial/05-MultiRoute-ServeMux-WebServer/countryCapitals"
 	"fmt"
 	"io"
 	"log"
