@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GO-WebServer-Tutorial/02-REST-GET-WebServer/countryCapitals"
+	"github.com/maniizzle/gowebservertutorial/02-REST-GET-WebServer/countryCapitals"
 	"fmt"
 	"io"
 	"log"
